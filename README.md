@@ -1,4 +1,6 @@
-📘 README Project 1 — File Management (FINAL)
+NAMA : MOHAMAD ALFATIR ANGE
+NIM  :05301425082
+MATKUL: SISTEM OPERASI
 
 # 📁 Project 1 – File Management (CMD)
 
